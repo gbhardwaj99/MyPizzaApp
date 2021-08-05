@@ -1,0 +1,7 @@
+.myTable{
+    width: 60%;
+    text-align: center;
+    /* border: 1px solid black; */
+    border-radius: 6px;
+    box-shadow: 10px 10px 12px #888;
+}
